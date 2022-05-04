@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <h3> 
-  Glad to see you here! <img src="https://komarev.com/ghpvc/?username=22sujata8d&label=Profile%20views&color=0e75b6&style=flat" alt="22sujata8d" />
+  Glad to see you here!
 </h3> 
 
 - 🔭 I’m currently working on a Golang Project.
