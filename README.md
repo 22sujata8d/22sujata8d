@@ -11,7 +11,7 @@
 - 💬 Ask me about anything related to career perspective.
 - 📫 How to reach me: You can connect with me on [linkedin](https://www.linkedin.com/in/sujata-dwivedi/)
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I like to read books from vast diversity of topics. The best reads so far Quiet by Susan Cain and 5AM Club by Robin Sharma.
+- ⚡ Fun fact: I like to read books from vast diversity of topics.
   
 <h3 align="left">Github Statistics</h3>
 <div style="display: flex; flex-direction: row;">
