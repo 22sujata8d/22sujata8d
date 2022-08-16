@@ -5,13 +5,11 @@
   Glad to see you here!
 </h3> 
 
-- 🔭 I’m currently working on a Golang Project.
-- 🌱 I’m currently learning advance data structures and algorithms.
+- 🔭 I’m currently working on JAVA project.
 - 🤔 I’m looking for help with designing large scale systems.
-- 💬 Ask me about anything related to career perspective.
 - 📫 How to reach me: You can connect with me on [linkedin](https://www.linkedin.com/in/sujata-dwivedi/)
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I like to read books from vast diversity of topics.
+<!-- 🌱 I’m currently learning advance data structures and algorithms. -->
   
 <h3 align="left">Github Statistics</h3>
 <div style="display: flex; flex-direction: row;">
