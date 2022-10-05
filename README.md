@@ -11,11 +11,13 @@
 - 😄 Pronouns: She/her/hers
 <!-- 🌱 I’m currently learning advance data structures and algorithms. -->
   
+<!--
 <h3 align="left">Github Statistics</h3>
 <div style="display: flex; flex-direction: row;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=22sujata8d&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22sujata8d&layout=compact" />
 </div>
+-->
 
 <!--
 **22sujata8d/22sujata8d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
