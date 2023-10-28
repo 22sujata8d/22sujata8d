@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sujata</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hola Amigos 👋 Soy Sujata</h1>
+<h3 align="center">La vida es corta, and I intend to explore lots of things.</h3>
 
 <h3> 
-  Glad to see you here!
+  Glad to see you here 🥳
 </h3> 
 
-- 🔭 I’m currently working on JAVA project.
-- 🤔 I’m looking for help with designing large scale systems.
-- 📫 How to reach me: You can connect with me on [linkedin](https://www.linkedin.com/in/sujata-dwivedi/)
+- 🔭 Practising JS, and exploring Frontend. Join me [here](https://github.com/22sujata8d/frontend-repo) on this journey 🍁🍁
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/sujata-dwivedi/)
 - 😄 Pronouns: She/her/hers
-<!-- 🌱 I’m currently learning advance data structures and algorithms. -->
   
 <!--
 <h3 align="left">Github Statistics</h3>
